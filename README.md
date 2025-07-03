@@ -62,6 +62,6 @@ This project is licensed under the MIT License.
 [![Python](https://img.shields.io/badge/Python-3.8+-blue?logo=python&logoColor=white)](https://www.python.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![RapidFuzz](https://img.shields.io/badge/Powered%20By-RapidFuzz-orange)](https://github.com/maxbachmann/RapidFuzz)
-[![Issues](https://img.shields.io/github/issues/your-username/techgadget-chatbot)](https://github.com/your-username/techgadget-chatbot/issues)
-[![Stars](https://img.shields.io/github/stars/your-username/techgadget-chatbot?style=social)](https://github.com/your-username/techgadget-chatbot/stargazers)
+[![Issues](https://img.shields.io/github/issues/SarahBahary/techgadget-chatbot)](https://github.com/SarahBahary/techgadget-chatbot/issues)
+[![Stars](https://img.shields.io/github/stars/SarahBahary/techgadget-chatbot?style=social)](https://github.com/SarahBahary/techgadget-chatbot/stargazers)
 
