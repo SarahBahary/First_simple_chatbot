@@ -4,6 +4,8 @@
 
 This project is a simple yet smart customer support chatbot for **TechGadget**, built using Python. It combines **exact matching** and **fuzzy text matching** to provide accurate and flexible responses to user questions.
 
+
+
 ## 📚 Educational Context
 
 This project was developed as part of the **"Introducing Generative AI with AWS"** course by **Udacity**.
@@ -16,6 +18,8 @@ The original exercise provided a basic rule-based chatbot. I enhanced it by:
 
 This chatbot simulates a support assistant for a fictional company called **TechGadget** and is part of my journey to understand real-world applications of AI.
 
+
+
 ---
 
 ## 💡 Features
@@ -26,12 +30,16 @@ This chatbot simulates a support assistant for a fictional company called **Tech
 - 🧪 Built in Python as part of my AI learning path
 
 ---
+
+
+
 ## 🛠 Technologies Used
 
 * Python 3
 * [`rapidfuzz`](https://github.com/maxbachmann/RapidFuzz) for fuzzy string matching
 
 ---
+
 
 
 
@@ -60,6 +68,8 @@ chatbot.py       # Main Python script with chatbot logic
 README.md        # Project documentation (you’re reading it!)
 ```
 
+
+
 ---
 
 
@@ -72,9 +82,13 @@ This project is for **educational purposes only** as part of the Udacity Generat
 ---
 
 
+
+
 👩‍💻 Developed by **Sarah Bahary**  
 🧠 Learner @ Udacity | Passionate about AI & Chatbots  
 🔗 [LinkedIn](https://www.linkedin.com/in/sarah-bahary-b8135a204/) | [GitHub](https://github.com/SarahBahary)
+
+
 
 # 🧠 TechGadget Support Chatbot
 
