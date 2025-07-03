@@ -51,19 +51,6 @@ README.md        # Project documentation (you’re reading it!)
 
 ---
 
-## 🔧 Customization
-
-You can extend the chatbot by editing the `responses` dictionary inside `chatbot.py`:
-
-```python
-responses = {
-    "hi": "Hello! ...",
-    "shipping methods": "We offer standard, expedited, and overnight shipping.",
-    ...
-}
-```
-
----
 
 ## 📄 License
 
