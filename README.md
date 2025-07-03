@@ -21,7 +21,7 @@ The original exercise provided a basic rule-based chatbot. I enhanced it by:
 This chatbot simulates a support assistant for a fictional company called **TechGadget** and is part of my journey to understand real-world applications of AI.
 
 
----
+
 ---
 
 
